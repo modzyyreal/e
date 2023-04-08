@@ -111,6 +111,14 @@ return {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
+	kys = {
+		"Bullying",
+		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
+	},
+	die = {
+		"Bullying",
+		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
+	},
 	trash = {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
