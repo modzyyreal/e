@@ -3,6 +3,10 @@ return {
 		"Scamming",
 		"he's advertising hacks (viruses)"
 	},
+	hacker = {
+		"Scamming",
+		"he's advertising hacks (viruses)"
+	},
 	cheat = {
 		"Scamming",
 		"he's advertising hacks (viruses)"
@@ -52,6 +56,10 @@ return {
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
 	noob = {
+		"Bullying",
+		"saying rude things to me, i can't take it anymore, i've had a really bad year"
+	},
+	btc = {
 		"Bullying",
 		"saying rude things to me, i can't take it anymore, i've had a really bad year"
 	},
@@ -179,15 +187,23 @@ return {
 		"Bullying",
 		"he talking about russia ukraine war"
 	},
-  furry = {
+        furry = {
 		"Bullying",
 		"this is really mean! i've had a really bad year, my dog passed out and i just can't take it anymore!"
 	},
-  ew = {
+        ew = {
 		"Bullying",
 		"this is really mean!"
 	},
 	cord = {
+		"Offsite Links",
+		"he offsite links"
+	},
+	khord = {
+		"Offsite Links",
+		"he offsite links"
+	},
+	discoard = {
 		"Offsite Links",
 		"he offsite links"
 	},
