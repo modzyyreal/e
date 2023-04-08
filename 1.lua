@@ -20,7 +20,7 @@ local Default = {
 	Webhook = ""; -- Webhook URL
 	
 	Words = {
-	    Blacklist = "https://raw.githubusercontent.com/CromixYT/Auto-Report/main/Blacklist";
+	    Blacklist = "https://raw.githubusercontent.com/modzyyreal/e/main/blacklist.lua";
 	    Whitelist = "https://raw.githubusercontent.com/CF-Trail/Auto-Report/main/words/whitelisted.lua";
 	};
 	
